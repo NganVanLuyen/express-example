@@ -11,16 +11,13 @@
     },
     {
       "name": "Messi",
-      "id": "ubaVJ8Qn"
+      "id": "ubaVJ8Qn",
+      "email": "messi@gmail.com",
+      "password": "e10adc3949ba59abbe56e057f20f883e"
     },
     {
       "name": "Villa",
       "id": "RUc3A4SF"
-    },
-    {
-      "name": "Name",
-      "phone": "0256",
-      "id": "JRNWqna-"
     }
   ]
 }
